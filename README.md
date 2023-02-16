@@ -144,7 +144,7 @@ Example commands:
 
 ```sh
   cd my-folder
-  git clone git@github.com:myaccount/my-project.git
+  git clone git@github.com:coker2019/my-project.git
 ```
 --->
 
@@ -252,9 +252,9 @@ If you like this project...
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
 
-I would like to thank...
+
+I would like to thank Microverse community for giving me the opportunity to learn here.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -262,7 +262,6 @@ I would like to thank...
 
 ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
 
-> Add at least 2 questions new developers would ask when they decide to use your project.
 
 - **[Question_1]**
 
