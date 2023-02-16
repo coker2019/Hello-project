@@ -96,12 +96,12 @@ After you're finished please remove all the comments and instructions!
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
+Key Features
+
+key features of the application:
+ The app allows user to update information.
 
 
-
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -208,8 +208,8 @@ Example:
 👤 **Maurice Coker**
 
 - GitHub: [@coker2019](https://github.com/coker2019)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- Twitter: [@Olabisi_coker](https://twitter.com/Olabisi_coker)
+- LinkedIn: [maurice-coker-174b129b](https://linkedin.com/in/maurice-coker-174b129b)
 
 <!-- 👤 **Author2**
 
@@ -223,11 +223,8 @@ Example:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
 
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
